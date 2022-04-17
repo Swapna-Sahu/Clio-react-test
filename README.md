@@ -1,4 +1,4 @@
-# "Bookmarked Movies" Frontend Test
+## Frontend Test
 
 ## Purpose 
 Build bookmarked movies list
