@@ -11,7 +11,9 @@ ReactJs , React Hook, Javascript, CSS
 ## Project setup
 
 Clone the repo
+
 run npm install
+
 run npm start
 
 ## About project
